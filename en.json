@@ -768,13 +768,11 @@
 	"Credits": "Credits",
 	"Tails Club wouldn't be possible without the help of some very special people and groups:": "Tails Club wouldn't be possible without the help of some very special people and groups:",
 	"%s and %s for the adorable artwork of Kiba.": "%s and %s for the adorable artwork of Kiba.",
-	"%sRex%s for constantly listening to me ramble about the site as it was being created and providing wonderful ideas.": "%sRex%s for constantly listening to me ramble about the site as it was being created and providing wonderful ideas.",
+	"%sRex%s and %sXYZ%s for constantly listening to me ramble about the site as it was being created and providing wonderful ideas.": "%sRex%s and %sXYZ%s for constantly listening to me ramble about the site as it was being created and providing wonderful ideas.",
 	"The people who made the 30+ dependencies that Tails Club relies on.": "The people who made the 30+ dependencies that Tails Club relies on.",
 	"%sFont Awesome%s for the icons.": "%sFont Awesome%s for the icons.",
 	"%s for speeding up the site.": "%s for speeding up the site.",
 	"The dozen or so people who checked up on the development of the project as it was being worked on it.": "The dozen or so people who checked up on the development of the project as it was being worked on it.",
-	"x/x/2020": "x/x/2020",
-	"Release Date": "Release Date",
 	"Version": "Version",
 	"Account verification ensures visitors that your account is genuine by adding a special badge next to your username on the website. Please ensure that your account follows our %saccount verification requirements%s before applying.": "Account verification ensures visitors that your account is genuine by adding a special badge next to your username on the website. Please ensure that your account follows our %saccount verification requirements%s before applying.",
 	"Logged in as %s": "Logged in as %s",
@@ -1046,5 +1044,6 @@
 	"You can't reply to this comment. This may be because you have blocked one another.": "You can't reply to this comment. This may be because you have blocked one another.",
 	"An error occurred updating the comment count for this post. Please try again later.": "An error occurred updating the comment count for this post. Please try again later.",
 	"The comment that you are trying to reply to does not exist. Please try again.": "The comment that you are trying to reply to does not exist. Please try again.",
-	"Options": "Options"
+	"Options": "Options",
+	"Posts": "Posts"
 }
