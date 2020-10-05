@@ -1,6 +1,6 @@
 {
 	"Feed": "Feed",
-	"You have exceeded the amount of requests that is allowed per minute for your IP address. This limit is in place to prevent the server from being overloaded and to protect the server from attacks. We're really sorry for the inconvenience, please try again in a minute.": "You have exceeded the amount of requests that is allowed per minute for your IP address. This limit is in place to prevent the server from being overloaded and to protect the server from attacks. We're really sorry for the inconvenience, please try again in a minute.",
+	"You have exceeded the amount of requests that are allowed per minute for your IP address. This limit is in place to prevent the server from being overloaded and to protect the server from attacks. We're really sorry for the inconvenience, please try again in a minute.": "You have exceeded the amount of requests that are allowed per minute for your IP address. This limit is in place to prevent the server from being overloaded and to protect the server from attacks. We're really sorry for the inconvenience, please try again in a minute.",
 	"An error occurred searching the database for site alerts. Please try again later.": "An error occurred searching the database for site alerts. Please try again later.",
 	"Internal Error": "Internal Error",
 	"An error occurred searching the database for your information. Please try again later.": "An error occurred searching the database for your information. Please try again later.",
@@ -1045,5 +1045,15 @@
 	"An error occurred updating the comment count for this post. Please try again later.": "An error occurred updating the comment count for this post. Please try again later.",
 	"The comment that you are trying to reply to does not exist. Please try again.": "The comment that you are trying to reply to does not exist. Please try again.",
 	"Options": "Options",
-	"Posts": "Posts"
+	"Posts": "Posts",
+	"Your IP address could not be determined for this request. Please try again later.": "Your IP address could not be determined for this request. Please try again later.",
+	"An error occurred changing your date of birth. Please try again later.": "An error occurred changing your date of birth. Please try again later.",
+	"Your date of birth has been changed. Please note that you cannot change it again.": "Your date of birth has been changed. Please note that you cannot change it again.",
+	"You have already changed your date of birth once. You cannot change it again.": "You have already changed your date of birth once. You cannot change it again.",
+	"Are you sure you want to change your date of birth? You can only change it once.": "Are you sure you want to change your date of birth? You can only change it once.",
+	"Current Date of Birth": "Current Date of Birth",
+	"New Date of Birth": "New Date of Birth",
+	"Change Date of Birth": "Change Date of Birth",
+	"You cannot change your date of birth because you have already changed it once.": "You cannot change your date of birth because you have already changed it once.",
+	"You can only change your date of birth once.": "You can only change your date of birth once."
 }
