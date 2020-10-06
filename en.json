@@ -1055,5 +1055,8 @@
 	"New Date of Birth": "New Date of Birth",
 	"Change Date of Birth": "Change Date of Birth",
 	"You cannot change your date of birth because you have already changed it once.": "You cannot change your date of birth because you have already changed it once.",
-	"You can only change your date of birth once.": "You can only change your date of birth once."
+	"You can only change your date of birth once.": "You can only change your date of birth once.",
+	"An error occurred marking your notifications as read.": "An error occurred marking your notifications as read.",
+	"Mark All as Read": "Mark All as Read",
+	"You have successfully marked all of your notifications as read.": "You have successfully marked all of your notifications as read."
 }
