@@ -655,6 +655,8 @@
 	"Upvote": "Upvote",
 	"Downvote": "Downvote",
 	"Posted on %s": "Posted on %s",
+	"Edited %s": "Edited %s",
+	"Click for more": "Click for more",
 	"Please keep in mind that %s has a private account. Only their followers can see their posts.": "Please keep in mind that %s has a private account. Only their followers can see their posts.",
 	"Click to Comment": "Click to Comment",
 	"You are replying to%s's comment": "You are replying to%s's comment",
@@ -1089,5 +1091,11 @@
 	"Remove Key": "Remove Key",
 	"You have no API Keys": "You have no API Keys",
 	"Your credentials were invalid. Please try again.": "Your credentials were invalid. Please try again.",
-	"An error occured validating your credentials. Please try again later.": "An error occured validating your credentials. Please try again later."
+	"An error occured validating your credentials. Please try again later.": "An error occured validating your credentials. Please try again later.",
+	"This post does not exist or has already been deleted.": "This post does not exist or has already been deleted.",
+	"Follow Recommendations": "Follow Recommendations",
+	"Who to Follow": "Who to Follow",
+	"View more": "View more",
+	"An error occurred obtaining follow recommendations. Please try again later.": "An error occurred obtaining follow recommendations. Please try again later.",
+	"You don't have any follow recommendations.": "You don't have any follow recommendations."
 }
